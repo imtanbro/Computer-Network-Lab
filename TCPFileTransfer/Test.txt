@@ -1,0 +1,7 @@
+KEY DIFFERENCES:
+TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol.
+The speed for TCP is slower while the speed of UDP is faster
+TCP uses handshake protocol like SYN, SYN-ACK, ACK while UDP uses no handshake protocols
+TCP does error checking and also makes error recovery, on the other hand, UDP performs error checking, but it discards erroneous packets.
+TCP has acknowledgment segments, but UDP does not have any acknowledgment segment.
+TCP is heavy-weight, and UDP is lightweight.
